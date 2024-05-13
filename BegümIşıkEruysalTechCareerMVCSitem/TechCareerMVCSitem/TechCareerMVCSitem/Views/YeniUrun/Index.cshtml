@@ -1,0 +1,24 @@
+﻿@model IEnumerable<TechCareerMVCSitem.Models.YeniUrun>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Tüm Ürünler</h1>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+
+
+        <div class="card" style="width: 18rem;">
+            <img src="~/Uploads/@item.urunResim" class="card-img-top" alt="@item.urunAdi">
+            <div class="card-body">
+                <h5 class="card-title">@item.urunAdi</h5>
+                <p class="card-text">@item.ISBN</p>
+                <a href="@Url.Action("SepeteEkle", "Sepet", new { id = item.Id })" class="btn btn-primary">Sepete Ekle</a>
+                <button onclick="location.href='@Url.Action("Details", "YeniUrun", new { id = item.Id })'" class="btn btn-primary">Detay</button>
+            </div>
+        </div>
+    }
+</div>

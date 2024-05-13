@@ -1,0 +1,50 @@
+﻿@model IEnumerable<TechCareerMVCSitem.Models.Urun>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="UrunEkle">Yeni Ürün Ekle</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UrunAdi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fiyati)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UrunAdi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fiyati)
+            </td>
+            <td>
+                @Html.ActionLink("Düzenle", "EditUrun", new { id=item.Id }) |
+                @Html.ActionLink("Detay", "GetUrun", new { id=item.Id}) |
+                    @Html.ActionLink("Sil",
+                             "DeleteKitap",
+                             new { id = item.Id },
+                             new { onclick = "return confirm('Silmek istediğinizden emin misiniz?');" })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

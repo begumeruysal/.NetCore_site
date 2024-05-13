@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\views\\yeniurun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\views\\yeniurun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\controllers\\yeniurunadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\controllers\\yeniurunadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\views\\sepet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\views\\sepet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\controllers\\sepetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\controllers\\sepetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\views\\yeniurun\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\views\\yeniurun\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|d:\\4. s\u0131n\u0131f\\techcareer-netcore\\yeni klas\u00F6r\\techcareermvcsitem - kopya - kopya\\techcareermvcsitem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\viewmodels\\editimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\viewmodels\\editimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\controllers\\yeniuruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\controllers\\yeniuruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\viewmodels\\urunviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\viewmodels\\urunviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\viewmodels\\uploadimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\viewmodels\\uploadimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\views\\yeniurunadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\views\\yeniurunadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\views\\yeniurunadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\views\\yeniurunadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\views\\yeniurunadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\views\\yeniurunadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\migrations\\20240513171129_yeniuruneklendi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\migrations\\20240513171129_yeniuruneklendi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\views\\urun\\geturun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\views\\urun\\geturun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\views\\urun\\editurun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\views\\urun\\editurun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\views\\urun\\deleteurun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\views\\urun\\deleteurun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\views\\urun\\urunekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\views\\urun\\urunekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\techcareermvcsitem\\views\\home\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969A58DD-4300-47A9-ABDB-195F370740F8}|TechCareerMVCSitem\\TechCareerMVCSitem.csproj|solutionrelative:techcareermvcsitem\\views\\home\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TechCareerMVCSitem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAEsAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T14:26:17.825Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Controllers\\UrunController.cs",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "TechCareerMVCSitem\\Controllers\\UrunController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAmwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:36:56.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Urun\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Views\\Urun\\Index.cshtml",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Urun\\Index.cshtml",
+              "RelativeToolTip": "TechCareerMVCSitem\\Views\\Urun\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:12:07.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YeniUrunAdminController.cs",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Controllers\\YeniUrunAdminController.cs",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Controllers\\YeniUrunAdminController.cs",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Controllers\\YeniUrunAdminController.cs",
+              "RelativeToolTip": "TechCareerMVCSitem\\Controllers\\YeniUrunAdminController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwIoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:59:18.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SepetController.cs",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Controllers\\SepetController.cs",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Controllers\\SepetController.cs",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Controllers\\SepetController.cs",
+              "RelativeToolTip": "TechCareerMVCSitem\\Controllers\\SepetController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:42:46.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Sepet\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Views\\Sepet\\Index.cshtml",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Sepet\\Index.cshtml",
+              "RelativeToolTip": "TechCareerMVCSitem\\Views\\Sepet\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T19:53:03.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\YeniUrun\\Details.cshtml",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Views\\YeniUrun\\Details.cshtml",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\YeniUrun\\Details.cshtml",
+              "RelativeToolTip": "TechCareerMVCSitem\\Views\\YeniUrun\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T18:46:28.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditImageViewModel.cs",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\ViewModels\\EditImageViewModel.cs",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\ViewModels\\EditImageViewModel.cs",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\ViewModels\\EditImageViewModel.cs",
+              "RelativeToolTip": "TechCareerMVCSitem\\ViewModels\\EditImageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:53:26.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\YeniUrun\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Views\\YeniUrun\\Index.cshtml",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\YeniUrun\\Index.cshtml",
+              "RelativeToolTip": "TechCareerMVCSitem\\Views\\YeniUrun\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T18:45:30.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TechCareerMVCSitem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T19:17:33.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TechCareerMVCSitem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:25:02.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "YeniUrunController.cs",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Controllers\\YeniUrunController.cs",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Controllers\\YeniUrunController.cs",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Controllers\\YeniUrunController.cs",
+              "RelativeToolTip": "TechCareerMVCSitem\\Controllers\\YeniUrunController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:43:20.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TechCareerMVCSitem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:02:07.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UrunViewModel.cs",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\ViewModels\\UrunViewModel.cs",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\ViewModels\\UrunViewModel.cs",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\ViewModels\\UrunViewModel.cs",
+              "RelativeToolTip": "TechCareerMVCSitem\\ViewModels\\UrunViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:50:16.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UploadImageViewModel.cs",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\ViewModels\\UploadImageViewModel.cs",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\ViewModels\\UploadImageViewModel.cs",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\ViewModels\\UploadImageViewModel.cs",
+              "RelativeToolTip": "TechCareerMVCSitem\\ViewModels\\UploadImageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:52:40.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\YeniUrunAdmin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Views\\YeniUrunAdmin\\Edit.cshtml",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\YeniUrunAdmin\\Edit.cshtml",
+              "RelativeToolTip": "TechCareerMVCSitem\\Views\\YeniUrunAdmin\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T18:36:49.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\YeniUrunAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Views\\YeniUrunAdmin\\Index.cshtml",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\YeniUrunAdmin\\Index.cshtml",
+              "RelativeToolTip": "TechCareerMVCSitem\\Views\\YeniUrunAdmin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T18:26:48.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\YeniUrunAdmin\\Create.cshtml",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Views\\YeniUrunAdmin\\Create.cshtml",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\YeniUrunAdmin\\Create.cshtml",
+              "RelativeToolTip": "TechCareerMVCSitem\\Views\\YeniUrunAdmin\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T18:26:03.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240513171129_YeniUrunEklendi.cs",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Migrations\\20240513171129_YeniUrunEklendi.cs",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Migrations\\20240513171129_YeniUrunEklendi.cs",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Migrations\\20240513171129_YeniUrunEklendi.cs",
+              "RelativeToolTip": "TechCareerMVCSitem\\Migrations\\20240513171129_YeniUrunEklendi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:11:29.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\appsettings.json",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\appsettings.json",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\appsettings.json",
+              "RelativeToolTip": "TechCareerMVCSitem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T15:05:34.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Program.cs",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Program.cs",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Program.cs",
+              "RelativeToolTip": "TechCareerMVCSitem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:10:00.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetUrun.cshtml",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Urun\\GetUrun.cshtml",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Views\\Urun\\GetUrun.cshtml",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Urun\\GetUrun.cshtml",
+              "RelativeToolTip": "TechCareerMVCSitem\\Views\\Urun\\GetUrun.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:55:23.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditUrun.cshtml",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Urun\\EditUrun.cshtml",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Views\\Urun\\EditUrun.cshtml",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Urun\\EditUrun.cshtml",
+              "RelativeToolTip": "TechCareerMVCSitem\\Views\\Urun\\EditUrun.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:26:32.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeleteUrun.cshtml",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Urun\\DeleteUrun.cshtml",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Views\\Urun\\DeleteUrun.cshtml",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Urun\\DeleteUrun.cshtml",
+              "RelativeToolTip": "TechCareerMVCSitem\\Views\\Urun\\DeleteUrun.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:55:54.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UrunEkle.cshtml",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Urun\\UrunEkle.cshtml",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Views\\Urun\\UrunEkle.cshtml",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Urun\\UrunEkle.cshtml",
+              "RelativeToolTip": "TechCareerMVCSitem\\Views\\Urun\\UrunEkle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:48:21.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Hakkimizda.cshtml",
+              "DocumentMoniker": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Home\\Hakkimizda.cshtml",
+              "RelativeDocumentMoniker": "TechCareerMVCSitem\\Views\\Home\\Hakkimizda.cshtml",
+              "ToolTip": "D:\\4. S\u0131n\u0131f\\techcareer-netcore\\Yeni klas\u00F6r\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\Views\\Home\\Hakkimizda.cshtml",
+              "RelativeToolTip": "TechCareerMVCSitem\\Views\\Home\\Hakkimizda.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T14:30:56.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

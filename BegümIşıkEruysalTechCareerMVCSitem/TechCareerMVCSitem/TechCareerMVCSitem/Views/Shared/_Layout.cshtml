@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TechCareerMVCSitem</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/TechCareerMVCSitem.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg bg-body-tertinary">
+            <div class="container-fluid">
+                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">Alıyorum.net</a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDrop" aria-controls="navbarNavDrop" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDrop">
+                    <ul class="navbar-nav  me-auto">
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="YeniUrun" asp-action="Index">Ürünleri görüntüle</a>
+                        </li>
+
+                        
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Kategoriler</a>
+
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="YeniUrun" asp-action="Index">Tümünü Göster </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="dropdown-item ">Giyim</a>
+                                </li>
+                                <li><a href="#" class="dropdown-item">Market</a></li>
+                                <li>
+                                    <a href="#" class="dropdown-item ">Teknoloji</a>
+                                </li>
+                                <li><a href="#" class="dropdown-item">Kitap</a></li>
+                                <li><a href="#" class="dropdown-item">Spor</a></li>
+                                <li><a href="#" class="dropdown-item">Kişisel Bakım</a></li>
+
+                            </ul>
+
+
+
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Hakkimizda">Hakkımızda</a>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">İletişim</a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="#" class="dropdown-item">
+                                        <p>Telefon: 123456789</p>
+                                        <p>Email: info@example.com</p>
+                                        <p>Adres: Örnek Mahallesi, Örnek Sokak, No: 123, Örnek Şehir, Ülke</p>
+                                    </a>
+                                </li>
+
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Urun" asp-action="Index">Ürün Listesi Satıcı</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="YeniUrunAdmin" asp-action="Index">Yeni Ürün Satıcı</a>
+                        <li class="nav-item">
+                            <a class="nav-link disabled" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Sepet" asp-action="Index">Sepet</a>
+                        </li>
+
+                    </ul>
+
+                    <form class="d-flex" role="search">
+                        <input type="search" class="form-control me-2" placeholder="Ara" aria-label="Search">
+                        <button class="btn btn-outline-secondary" style="background-color: rgb(16, 7, 56); color: white;">Ara</button>
+
+                    </form>
+                </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - TechCareerMVCSitem - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,6 @@
+@TechCareerCodeFirstUrun_HostAddress = http://localhost:5289
+
+GET {{TechCareerCodeFirstUrun_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

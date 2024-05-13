@@ -1,0 +1,36 @@
+﻿@model TechCareerMVCSitem.Models.Urun
+
+@{
+    ViewData["Title"] = "GetUrun";
+}
+
+<h1>GetUrun</h1>
+
+<div>
+    <h4>Urun</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.UrunAdi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.UrunAdi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Fiyati)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Fiyati)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Düzenle", "EditUrun", new {  id = Model.Id }) |
+    <a asp-action="Index">Listeye Dön</a>
+</div>

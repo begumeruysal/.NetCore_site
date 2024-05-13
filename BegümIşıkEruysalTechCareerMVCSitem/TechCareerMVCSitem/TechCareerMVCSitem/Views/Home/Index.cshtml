@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <img src="~/wwwroot/img/1.png" alt="" class="course-img" style="border-radius: 10px;">
+</div>
+
+<div class="container mt-5" style="background-color: rgba(26, 76, 240, 0.507); border-radius: 10px;">
+    <h2>Kategoriler</h2>
+
+    <div class="row">
+        <!-- Çizgi -->
+        <hr class="mt-4 mb-4" style="border: 1px solid rgba(0, 0, 0, 0.1); width: 100%;" />
+        <!-- /Çizgi -->
+        <!-- Kategori Butonları -->
+        <div class="col-md-2">
+            <div class="course-card2">
+                <a href="#" class="btn" style="background-color: rgba(58, 26, 240, 0.829); height: fit-content;">Teknoloji</a>
+            </div>
+        </div>
+        <div class="col-6 col-md-2 ">
+            <div class="course-card2">
+                <a href="#" class="btn" style="background-color: rgba(58, 26, 240, 0.829); height: fit-content;">Giyim</a>
+            </div>
+        </div>
+        <div class="col-6 col-md-2">
+            <div class="course-card2">
+                <a href="#" class="btn" style="background-color: rgba(58, 26, 240, 0.829); height: fit-content;">Market</a>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="course-card2">
+                <a href="#" class="btn" style="background-color: rgba(58, 26, 240, 0.829); height: fit-content;">Kitap</a>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="course-card2">
+                <a href="#" class="btn" style="background-color: rgba(58, 26, 240, 0.829); height: fit-content;">Kişisel bakım</a>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="course-card2">
+                <a href="#" class="btn" style="background-color: rgba(58, 26, 240, 0.829); height: fit-content;">Spor</a>
+            </div>
+        </div>
+        <!-- /Kategori Butonları -->
+        <!-- Çizgi -->
+        <hr class="mt-4 mb-4" style="border: 1px solid rgba(0, 0, 0, 0.1); width: 100%;" />
+        <!-- /Çizgi -->
+        <!-- Diğer Butonlar -->
+        <div class="col-md-12 mt-3">
+            <div class="row justify-content-center">
+                <!-- Tüm Ürünleri Görüntüle Butonu -->
+                <div class="col-md-3">
+                    <a class="btn" style="background-color: rgba(58, 26, 240, 0.829); height: fit-content;" asp-area="" asp-controller="YeniUrun" asp-action="Index">Ürünleri Görüntüle</a>
+                </div>
+                <!-- Sepeti Görüntüle Butonu -->
+                <div class="col-md-3">
+                    <a class="btn" style="background-color: rgba(58, 26, 240, 0.829); height: fit-content;" asp-area="" asp-controller="Sepet" asp-action="Index">Sepeti Görüntüle</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- /Diğer Butonlar -->
+
+    </div>
+    <p style="height: 20px;"> </p>
+</div>
+
+

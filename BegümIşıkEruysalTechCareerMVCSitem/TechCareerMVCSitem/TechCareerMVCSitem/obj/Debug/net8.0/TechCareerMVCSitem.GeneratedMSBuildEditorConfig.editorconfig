@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TechCareerMVCSitem
+build_property.RootNamespace = TechCareerMVCSitem
+build_property.ProjectDir = D:\4. Sınıf\techcareer-netcore\Yeni klasör\TechCareerMVCSitem - Kopya - Kopya\TechCareerMVCSitem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\4. Sınıf\techcareer-netcore\Yeni klasör\TechCareerMVCSitem - Kopya - Kopya\TechCareerMVCSitem
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/Home/Hakkimizda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWtraW1pemRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/Sepet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VwZXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/Urun/DeleteUrun.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blxEZWxldGVVcnVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/Urun/EditUrun.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blxFZGl0VXJ1bi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/Urun/GetUrun.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blxHZXRVcnVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/Urun/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/Urun/UrunEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blxVcnVuRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/YeniUrunAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWVuaVVydW5BZG1pblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/YeniUrunAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWVuaVVydW5BZG1pblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/YeniUrunAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWVuaVVydW5BZG1pblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/YeniUrun/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWVuaVVydW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/YeniUrun/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWVuaVVydW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4. Sınıf/techcareer-netcore/Yeni klasör/TechCareerMVCSitem - Kopya - Kopya/TechCareerMVCSitem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1vkmerh1yx

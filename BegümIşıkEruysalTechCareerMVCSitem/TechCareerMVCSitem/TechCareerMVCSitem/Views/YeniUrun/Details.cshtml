@@ -1,0 +1,50 @@
+﻿@model TechCareerMVCSitem.Models.YeniUrun
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Ürün Detay</h1>
+
+<div class="container">
+    <hr />
+    <div class="row">
+        <div class="col-md-3">
+            <img src="~/Uploads/@Model.urunResim" class="img-fluid" alt="Ürün Resmi" />
+        </div>
+        <div class="col-md-9">
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.urunAdi)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.urunAdi)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.ISBN)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.ISBN)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.fiyat)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.fiyat)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.yayinlanmaTarihi)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.yayinlanmaTarihi)
+                </dd>
+            </dl>
+        </div>
+    </div>
+</div>
+<p style="height: 20px;"> </p>
+
+<div>
+    <a href="@Url.Action("SepeteEkle", "Sepet", new { id = Model.Id })" class="btn btn-primary">Sepete Ekle</a>
+    <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Ana Sayfaya Dön</a>
+</div>
