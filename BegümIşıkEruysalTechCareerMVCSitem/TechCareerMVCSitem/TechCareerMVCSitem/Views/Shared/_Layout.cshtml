@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/TechCareerMVCSitem.styles.css" asp-append-version="true" />
+
 </head>
 <body>
     <header>
@@ -81,11 +82,11 @@
 
                     </ul>
 
-                    <form class="d-flex" role="search">
-                        <input type="search" class="form-control me-2" placeholder="Ara" aria-label="Search">
-                        <button class="btn btn-outline-secondary" style="background-color: rgb(16, 7, 56); color: white;">Ara</button>
-
+                    <form method="get" action="@Url.Action("Index", "Ara")" class="d-flex" role="search">
+                        <input type="search" name="q" class="form-control me-2" placeholder="Ara" aria-label="Search">
+                        <button type="submit" class="btn btn-outline-secondary" style="background-color: rgb(16, 7, 56); color: white;">Ara</button>
                     </form>
+
                 </div>
         </nav>
     </header>

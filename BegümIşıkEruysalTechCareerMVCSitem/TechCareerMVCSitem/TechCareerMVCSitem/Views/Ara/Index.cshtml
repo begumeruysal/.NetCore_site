@@ -1,0 +1,32 @@
+﻿@model IEnumerable<TechCareerMVCSitem.Models.Ara>
+
+
+@{
+    ViewData["Title"] = "Ara";
+}
+
+<h1>Ürün Arama</h1>
+
+<form method="get" action="@Url.Action("Index", "Ara")">
+    <div class="input-group mb-3">
+        <input type="text" name="q" class="form-control" placeholder="Ürün adıyla ara" aria-label="Ürün adıyla ara" aria-describedby="button-addon2">
+        <button class="btn btn-outline-secondary" type="submit" id="button-addon2">Ara</button>
+    </div>
+</form>
+
+@if (ViewBag.SearchQuery != null)
+{
+    <p>@ViewBag.SearchQuery</p>
+}
+
+@if (Model != null && Model.Any())
+{
+    <h2>Arama Sonuçları:</h2>
+    <ul>
+        @foreach (var product in Model)
+        {
+            <li>@product.urunAdi</li>
+        }
+    </ul>
+}
+<a href="@Url.Action("Index", "Home")" class="btn btn-primary">Ana Sayfaya Dön</a>

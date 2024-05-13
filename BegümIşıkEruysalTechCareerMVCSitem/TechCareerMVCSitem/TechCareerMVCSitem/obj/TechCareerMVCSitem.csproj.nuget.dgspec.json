@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\4. Sınıf\\techcareer-netcore\\Yeni klasör\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\TechCareerMVCSitem.csproj": {}
+    "D:\\4. Sınıf\\Git\\.NetCore_site\\BegümIşıkEruysalTechCareerMVCSitem\\TechCareerMVCSitem\\TechCareerMVCSitem\\TechCareerMVCSitem.csproj": {}
   },
   "projects": {
-    "D:\\4. Sınıf\\techcareer-netcore\\Yeni klasör\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\TechCareerMVCSitem.csproj": {
+    "D:\\4. Sınıf\\Git\\.NetCore_site\\BegümIşıkEruysalTechCareerMVCSitem\\TechCareerMVCSitem\\TechCareerMVCSitem\\TechCareerMVCSitem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\4. Sınıf\\techcareer-netcore\\Yeni klasör\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\TechCareerMVCSitem.csproj",
+        "projectUniqueName": "D:\\4. Sınıf\\Git\\.NetCore_site\\BegümIşıkEruysalTechCareerMVCSitem\\TechCareerMVCSitem\\TechCareerMVCSitem\\TechCareerMVCSitem.csproj",
         "projectName": "TechCareerMVCSitem",
-        "projectPath": "D:\\4. Sınıf\\techcareer-netcore\\Yeni klasör\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\TechCareerMVCSitem.csproj",
+        "projectPath": "D:\\4. Sınıf\\Git\\.NetCore_site\\BegümIşıkEruysalTechCareerMVCSitem\\TechCareerMVCSitem\\TechCareerMVCSitem\\TechCareerMVCSitem.csproj",
         "packagesPath": "C:\\Users\\begum\\.nuget\\packages\\",
-        "outputPath": "D:\\4. Sınıf\\techcareer-netcore\\Yeni klasör\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\obj\\",
+        "outputPath": "D:\\4. Sınıf\\Git\\.NetCore_site\\BegümIşıkEruysalTechCareerMVCSitem\\TechCareerMVCSitem\\TechCareerMVCSitem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\visual studio\\shared\\NuGetPackages"
@@ -81,6 +81,10 @@
             "bootstrap": {
               "target": "Package",
               "version": "[5.3.3, )"
+            },
+            "jQuery": {
+              "target": "Package",
+              "version": "[3.7.1, )"
             }
           },
           "imports": [

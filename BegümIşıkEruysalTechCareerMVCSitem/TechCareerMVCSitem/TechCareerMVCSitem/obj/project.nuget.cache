@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CXN92S6270YH2+ox3QnC3Mi2BDoWU/JTP5E8/3WgyfgcQgE6CGSD9pJOCI//IIUFjPS1MhvEk8YmiqOMWWfVvw==",
+  "dgSpecHash": "5xllCRdgWyhItmxBy+c0vvKNynYoGg10iFNX2WiwbIF0kjQiTDJbgZhhu+7F3TEja6PQg5lC+esj339PchModg==",
   "success": true,
-  "projectFilePath": "D:\\4. Sınıf\\techcareer-netcore\\Yeni klasör\\TechCareerMVCSitem - Kopya - Kopya\\TechCareerMVCSitem\\TechCareerMVCSitem.csproj",
+  "projectFilePath": "D:\\4. Sınıf\\Git\\.NetCore_site\\BegümIşıkEruysalTechCareerMVCSitem\\TechCareerMVCSitem\\TechCareerMVCSitem\\TechCareerMVCSitem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\begum\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\begum\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -57,6 +57,7 @@
     "C:\\Users\\begum\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\begum\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\begum\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "C:\\Users\\begum\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512",
     "C:\\Users\\begum\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "C:\\Users\\begum\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\begum\\.nuget\\packages\\microsoft.build\\17.8.3\\microsoft.build.17.8.3.nupkg.sha512",
